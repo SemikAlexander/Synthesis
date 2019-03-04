@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).exe.config
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).exe
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).pdb
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез__Пирамида_.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез__Пирамида_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).exe
+c:\users\user\documents\visual studio 2013\Projects\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).pdb
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).exe.config
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).exe
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\bin\Debug\Синтез (Пирамида).pdb
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез__Пирамида_.Form1.resources
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез__Пирамида_.Properties.Resources.resources
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).exe
+C:\Users\Alex\Desktop\Синтез (Пирамида)\Синтез (Пирамида)\obj\Debug\Синтез (Пирамида).pdb

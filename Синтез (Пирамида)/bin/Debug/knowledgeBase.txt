@@ -1,0 +1,41 @@
+7
+H Высота
+A Сторона
+B Ребро
+C Апофема
+Sb Площадь основания
+Ss Площадь боковой поверхности
+V Объём
+
+H 2 A V
+H=(V*3)/A**2
+
+A 2 V H
+A=(sqrt((V*3)/H))
+
+V 2 A H
+V=((A**2)*H)/3
+
+Ss 2 A B
+Ss=(0.5*A*sqrt(B**2-((A**2)/4)))
+
+Ss 2 A H
+Ss=(A*H)/2
+
+Sb 1 A
+Sb=A**2
+
+A 2 Ss H
+A=(Ss*2)/H
+
+H 2 Ss A
+H=(Ss*2)/A
+
+A 1 Sb
+A=sqrt(Sb)
+
+B 2 Ss A
+B=pow(((Ss*2)/A),2)+(pow(A,2)/4)
+
+Ss 2 V H
+Ss=(3*V)/H
